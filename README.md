@@ -1,2 +1,4 @@
 # docker-desafio-go
-Desafio do treinamento full cycle 3.0
+Para rodar o container
+
+docker run lsauwen/fullcyle-desafio-go
